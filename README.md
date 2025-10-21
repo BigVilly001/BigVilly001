@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunday Villong
 
-<!--
-**BigVilly001/BigVilly001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 Writer | 🎤 Public Speaker | 📊 Business Intelligence Analyst | 🎨 Data Visualization Enthusiast
 
-Here are some ideas to get you started:
+I’m passionate about transforming **data, ideas, and stories** into tools for insight, impact, and inspiration.  
+My work lives at the intersection of **art, analysis, and human potential** — helping people see clearly, think deeply, and act wisely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 What I Do
+- **Writing & Thought Leadership** – Exploring purpose, self-awareness, and human excellence through words and philosophy.  
+- **Public Speaking & Coaching** – Teaching life skills, mindset, and professional growth to young adults and teams.  
+- **Data Analysis & Visualization** – Turning raw data into clear, meaningful stories using Power BI and SQL.  
+- **Business Intelligence** – Designing dashboards and insights that help decision-makers make smarter moves.
+
+---
+
+### 🛠️ Tools & Skills
+- **Data Tools:** Power BI, Excel and SQL.  
+- **Writing & Communication:** Creative Writing, Public Speaking, Curriculum Design, Storytelling  
+- **Design & Visualization:** Canva, PowerPoint  
+- **Soft Skills:** Leadership, Emotional Intelligence, Critical Thinking  
+
+---
+
+### 📚 Featured Projects
+- 🧠 *The Wheel of Life Dashboard* — Interactive visualization connecting personal growth metrics.  
+- 💰 *Financial Literacy Dashboard* — BI project showing income, savings, and expenses trends.  
+- 🧾 *Life Skills Curriculum Insights* — Data analysis on program outcomes and participant growth.  
+- ✍️ *A Man from a Word* — Philosophical novel exploring identity, addiction, and transcendence.
+
+---
+
+### 🌍 Let’s Connect
+- 💼 [LinkedIn](#) www.linkedin.com/in/
+ZumtuVillong001   
+- 📧 Email: zumtuvillong@gmail,com  
+  
+
+---
+
+> “Data tells stories. Words shape worlds. Both reveal truth.”
+

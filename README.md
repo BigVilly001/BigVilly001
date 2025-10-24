@@ -27,7 +27,7 @@ My work lives at the intersection of **art, analysis, and human potential** — 
 - 🧠 *The Wheel of Life Dashboard* — Interactive visualization connecting personal growth metrics.  
 - 💰 *Financial Literacy Dashboard* — BI project showing income, savings, and expenses trends.  
 - 🧾 *Life Skills Curriculum Insights* — Data analysis on program outcomes and participant growth.  
-- ✍️ *A Man from a Word* — Philosophical novel exploring identity, addiction, and transcendence.
+
 
 ---
 

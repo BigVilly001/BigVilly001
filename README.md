@@ -13,6 +13,36 @@ My work lives at the intersection of **art, analysis, and human potential** — 
 - **Data Analysis & Visualization** – Turning raw data into clear, meaningful stories using Power BI and SQL.  
 - **Business Intelligence** – Designing dashboards and insights that help decision-makers make smarter moves.
 
+-## 👋 Hi there, I’m **Sunday Villong**
+
+### 🔭 I’m currently working on...
+- Developing a **Life Skills Curriculum** that blends philosophy, purpose, and practical growth  
+- Building **data visualizations** with Power BI using real-world datasets (like AdventureWorks)  
+- Writing and editing my literary project *A Man from a Word* a deep exploration of identity and transcendence  
+
+### 🌱 I’m currently learning...
+- **Advanced SQL** for data analysis and automation  
+- **Power BI storytelling and dashboard design**  
+- **Personal development frameworks** that integrate philosophy and spirituality  
+
+### 💬 Ask me about...
+- **Life skills education & mindset transformation**  
+- **Data storytelling & business intelligence**  
+- **Public speaking, creative writing, and Counseling**  
+
+### ⚡ Fun fact:
+I believe data, discipline, and self-discovery are the three pillars of growth — both in code and in character.
+
+---
+
+### 📊 GitHub Stats
+![Sunday Villong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigVilly001&show_icons=true&theme=tokyonight)
+
+---
+
+## ⚡ Fun fact:
+I combine design, philosophy, and data to tell meaningful human stories.
+
 ---
 
 ### 🛠️ Tools & Skills
